@@ -8,7 +8,7 @@ Companion notebook to my LinkedIn article: "Your PD Model Tells You Who's
 Risky. LCA Tells You Why."
 
 ## Files
-- `LCA_Analysis_for_posting.ipynb` — the tutorial notebook
+- `LCA_Analysis.ipynb` — the tutorial notebook
 - `lendingclub_sample_25000.csv` — sample data
 
 ## Requirements
